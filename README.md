@@ -9,4 +9,4 @@ News-Scraper scrapes and renders local news articles with options to save articl
 
 In the saved articles bank users have the options to delete a saved article or save a comment/view an article.
 
-![Uploading Screen Shot 2019-02-27 at 9.30.37 PM.png…]()
+<img width="1436" alt="screen shot 2019-02-27 at 9 30 37 pm" src="https://user-images.githubusercontent.com/39817046/53539388-08b57480-3ad7-11e9-8b94-07babb97a12a.png">
